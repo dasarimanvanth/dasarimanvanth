@@ -39,12 +39,12 @@ I'm a **Data Science Enthusiast** 🌱 eagerly stepping into the world of data s
 ## My Interests
 - **Python Programming** 🐍
 - **Statistics Fundamentals** 📈
-- **Machine Learning Foundations** 🤖
+- **PowerBi** 🤖
 
 ---
 
 ## Get in Touch
-- **Email**: [dmanvanth.com](mailto:dmanvanth@gmail.com) ✉️
+- **Email**: [dmanvanth](mailto:dmanvanth@gmail.com) ✉️
 - **LinkedIn**: [www.linkedin.com/in/dasari-manvanth](https://www.linkedin.com/in/dasari-manvanth) 🔗
 
 ---
