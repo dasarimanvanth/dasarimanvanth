@@ -45,7 +45,7 @@ I'm a **Data Science Enthusiast** 🌱 eagerly stepping into the world of data s
 
 ## Get in Touch
 - **Email**: [dmanvanth](mailto:dmanvanth@gmail.com) ✉️
-- **LinkedIn**: [www.linkedin.com/in/dasari-manvanth](https://www.linkedin.com/in/dasari-manvanth) 🔗
+- **LinkedIn**: [www.linkedin.com/in/d-manvanth](https://www.linkedin.com/in/d-manvanth) 🔗
 
 ---
 
